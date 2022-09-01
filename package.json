@@ -1,6 +1,6 @@
 {
   "name": "@aayush5990/library-react-components",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react components library",
   "author": "aayush5990",
   "license": "MIT",
@@ -49,8 +49,5 @@
   },
   "files": [
     "dist"
-  ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/aayush5990"
-  }
+  ]
 }
